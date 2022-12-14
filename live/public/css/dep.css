@@ -1,0 +1,11 @@
+body {
+    margin:0;
+}
+.row {
+    float: left;
+    width: 100%;
+}
+header {
+    background-color: orange;
+    height:40px;
+}
